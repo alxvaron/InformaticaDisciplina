@@ -1,4 +1,4 @@
-# FRepresentación informática y otras disciplinas utilizando framework d3js
+# Representación informática y otras disciplinas utilizando framework d3js
 
 -Correr en un liveServer o ejecutar desde el localhost.
 
