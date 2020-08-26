@@ -1,6 +1,6 @@
-# Force Directed Tree with Coloring and Blinking effect
+# FRepresentación informática y otras disciplinas utilizando framework d3js
 
-https://observablehq.com/@sethuram975351/force-directed-tree-with-coloring-and-blinking-effect@33
+-Correr en un liveServer o ejecutar desde el localhost.
 
 Uso libreria observable para representación de las relaciones de la informática con otras disciplinas.
 
